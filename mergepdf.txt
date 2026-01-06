@@ -1,0 +1,4 @@
+PDF Merger GUI using PyPDF
+
+A Python-based GUI application that allows users to merge multiple PDF files using drag & drop or batch folder selection.
+The application supports password-protected output PDFs and is built using Tkinter and PyPDF for real-world document handling use cases.
